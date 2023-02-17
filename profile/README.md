@@ -1,4 +1,4 @@
-![App Screenshot](https://clevor.co/imgs/coloredClevor.png)
+![App Screenshot](https://clevor.co/oldImgs/coloredClevor.png)
 #
 
 Developing unified solutions to enhance everyday lives
