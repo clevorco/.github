@@ -6,4 +6,4 @@ Developing unified solutions to enhance everyday lives
 
 ## Support
 
-For support, email hello@clevor.co
+For support, email keano@clevor.co
